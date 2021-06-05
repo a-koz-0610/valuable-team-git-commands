@@ -4,6 +4,7 @@
 -  `git checkout name-of-branch` : this will **move** you over to this branch ... with `git checkout main` to get back to the main branch 
 - `git pull`: this will bring down locally all code updates (and branches!) that exist in your remote team repository 
 - `git merge main` : if you are on your particular branch, and let's say updates have been merged into `main` ... you can do a `git pull` on `main` and then checkout to your branch with `git checkout your-branch-name` and do `git merge main`... this will provide you with the most up to date code base as you continue working on your branch
+- `git branch` : see a list of branches you have available to checkout to
 
 
 ## commands to be careful of
